@@ -1,2 +1,2 @@
 const app=require('./export.js');
-console .log(app.a);
+console .log(app.b);
